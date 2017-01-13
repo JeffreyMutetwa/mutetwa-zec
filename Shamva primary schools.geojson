@@ -1,0 +1,38 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32736" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Mupfure" }, "geometry": { "type": "Point", "coordinates": [ 338626.91509999451, 8134114.430151416 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Chihuri" }, "geometry": { "type": "Point", "coordinates": [ 332261.21138402371, 8131372.2498890152 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Nyamaruro" }, "geometry": { "type": "Point", "coordinates": [ 329241.90314631874, 8125005.2878258089 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Mutumba" }, "geometry": { "type": "Point", "coordinates": [ 339456.63311071583, 8120602.547255462 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Kaziro" }, "geometry": { "type": "Point", "coordinates": [ 339219.39754138794, 8125126.4658851987 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Chimbira" }, "geometry": { "type": "Point", "coordinates": [ 335026.41246082337, 8125065.2870767638 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Madziwa" }, "geometry": { "type": "Point", "coordinates": [ 343256.12007264519, 8130146.6821163073 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Mushowani" }, "geometry": { "type": "Point", "coordinates": [ 343946.63197650277, 8123494.6210763175 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Nyarukunda" }, "geometry": { "type": "Point", "coordinates": [ 332313.24543841474, 8118751.9630070366 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Nyamaropa" }, "geometry": { "type": "Point", "coordinates": [ 344118.01272882323, 8116144.9000723641 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Mudzinge" }, "geometry": { "type": "Point", "coordinates": [ 352515.42050084379, 8117103.3513602791 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Chindunduma" }, "geometry": { "type": "Point", "coordinates": [ 353254.67195797816, 8124032.521872282 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Magadzi" }, "geometry": { "type": "Point", "coordinates": [ 360023.81580892357, 8129290.0400066562 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Mukwari" }, "geometry": { "type": "Point", "coordinates": [ 358921.64663542842, 8120882.3128888635 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Chidembo" }, "geometry": { "type": "Point", "coordinates": [ 336071.17063954409, 8111875.733416155 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Chevakadzi" }, "geometry": { "type": "Point", "coordinates": [ 339843.92953425465, 8106497.0744150272 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Muringamombe" }, "geometry": { "type": "Point", "coordinates": [ 353642.90881165699, 8109631.3389058067 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Madziwa Mine" }, "geometry": { "type": "Point", "coordinates": [ 357866.1652659789, 8113400.3154598996 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Batsiranai" }, "geometry": { "type": "Point", "coordinates": [ 360305.42897466075, 8107815.9641302777 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Jiti" }, "geometry": { "type": "Point", "coordinates": [ 352537.08593169507, 8102147.2318272591 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Gono" }, "geometry": { "type": "Point", "coordinates": [ 346624.45228231966, 8103438.6747310329 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Sanye" }, "geometry": { "type": "Point", "coordinates": [ 358000.6025916615, 8103614.654979093 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Bushu" }, "geometry": { "type": "Point", "coordinates": [ 346757.75805386325, 8097967.2009860436 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Rushington" }, "geometry": { "type": "Point", "coordinates": [ 347953.73995207902, 8093897.4754401622 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Nherera" }, "geometry": { "type": "Point", "coordinates": [ 356577.24489493744, 8090986.1868172456 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Mashambanyama" }, "geometry": { "type": "Point", "coordinates": [ 345235.33238717285, 8083034.0117564034 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Soma" }, "geometry": { "type": "Point", "coordinates": [ 338884.07052323042, 8088086.4870769102 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Enterprise" }, "geometry": { "type": "Point", "coordinates": [ 341312.66038134106, 8075401.1842262838 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Shamva" }, "geometry": { "type": "Point", "coordinates": [ 348702.88264844893, 8086995.2084103506 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Mufurudzi" }, "geometry": { "type": "Point", "coordinates": [ 329495.2048866452, 8113270.4884073529 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Wadzanai" }, "geometry": { "type": "Point", "coordinates": [ 348091.30642774701, 8088468.2586991461 ] } }
+]
+}

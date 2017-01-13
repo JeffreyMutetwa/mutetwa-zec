@@ -1,0 +1,31 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32736" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Kaziro dip" }, "geometry": { "type": "Point", "coordinates": [ 335428.90576000797, 8130386.3106239047 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Mpfure dip" }, "geometry": { "type": "Point", "coordinates": [ 339454.62991812034, 8133426.7524787951 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": null }, "geometry": { "type": "Point", "coordinates": [ 355985.47744994855, 8091582.1116313739 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": null }, "geometry": { "type": "Point", "coordinates": [ 352959.96411480347, 8075384.6677071992 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": null }, "geometry": { "type": "Point", "coordinates": [ 349446.78580129641, 8076205.7362932153 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": null }, "geometry": { "type": "Point", "coordinates": [ 345580.29918713908, 8069657.0922980672 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": null }, "geometry": { "type": "Point", "coordinates": [ 345147.37211451138, 8101250.8162533883 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": null }, "geometry": { "type": "Point", "coordinates": [ 336563.47326068726, 8112656.2053391645 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Kasimbwi dip" }, "geometry": { "type": "Point", "coordinates": [ 331756.48990254576, 8113984.8435965385 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Chidabwe dip" }, "geometry": { "type": "Point", "coordinates": [ 327586.45672022429, 8122260.2197089484 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": null }, "geometry": { "type": "Point", "coordinates": [ 338713.18010407995, 8122339.8384809233 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Zvisokwe dip" }, "geometry": { "type": "Point", "coordinates": [ 343923.2334953575, 8127430.4637142355 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": null }, "geometry": { "type": "Point", "coordinates": [ 351546.73091220309, 8111466.89993275 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": null }, "geometry": { "type": "Point", "coordinates": [ 342355.73892205034, 8103674.2126254532 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": null }, "geometry": { "type": "Point", "coordinates": [ 338591.79421479546, 8108856.6417076048 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Chishapa dip" }, "geometry": { "type": "Point", "coordinates": [ 351296.54070694238, 8097446.2371629961 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Hexagon" }, "geometry": { "type": "Point", "coordinates": [ 349231.10142895608, 8086375.4826329872 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": null }, "geometry": { "type": "Point", "coordinates": [ 332689.22774481686, 8080537.1742738802 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": null }, "geometry": { "type": "Point", "coordinates": [ 363294.44797951198, 8087164.939423684 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Bushu dip" }, "geometry": { "type": "Point", "coordinates": [ 350167.43390164338, 8100640.7832462788 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": null }, "geometry": { "type": "Point", "coordinates": [ 353068.22862094862, 8117494.7677546488 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Dikitisa dip" }, "geometry": { "type": "Point", "coordinates": [ 342511.53897790745, 8119486.7691916414 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": null }, "geometry": { "type": "Point", "coordinates": [ 353969.33330031205, 8076523.111627196 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": null }, "geometry": { "type": "Point", "coordinates": [ 351698.61495692009, 8081156.7258760668 ] } }
+]
+}

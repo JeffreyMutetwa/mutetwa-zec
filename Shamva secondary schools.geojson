@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32736" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Chihuri" }, "geometry": { "type": "Point", "coordinates": [ 332203.24023383204, 8132459.5931514017 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Mupfure" }, "geometry": { "type": "Point", "coordinates": [ 338791.99278181611, 8133280.2698165718 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Madziwa" }, "geometry": { "type": "Point", "coordinates": [ 342875.91169962607, 8129100.4187615262 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Mutumba" }, "geometry": { "type": "Point", "coordinates": [ 336027.2497503123, 8120781.8696804373 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Zvomanyamga" }, "geometry": { "type": "Point", "coordinates": [ 356695.47945201234, 8127185.9577249885 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Nyarukunda" }, "geometry": { "type": "Point", "coordinates": [ 332150.80780828453, 8118090.9321642183 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Madziwa Mine" }, "geometry": { "type": "Point", "coordinates": [ 356408.53235778969, 8113510.1128789317 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Bradley Institute" }, "geometry": { "type": "Point", "coordinates": [ 335796.23538042058, 8117469.1925988542 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Chidembo" }, "geometry": { "type": "Point", "coordinates": [ 334840.9943577263, 8110594.035857169 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Bushu" }, "geometry": { "type": "Point", "coordinates": [ 346709.63290963101, 8097384.6810750607 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Chishapa" }, "geometry": { "type": "Point", "coordinates": [ 349873.64126242034, 8097661.988830246 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Wadzanai" }, "geometry": { "type": "Point", "coordinates": [ 348559.73191650549, 8087906.7156372331 ] } }
+]
+}
